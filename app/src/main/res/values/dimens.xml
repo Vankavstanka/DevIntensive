@@ -12,7 +12,6 @@
     <dimen name="size_large_72">72dp</dimen>
     <dimen name="size_larger_80">80dp</dimen>
     <dimen name="size_largerer_96">80dp</dimen>
-    <dimen name="size_largerest_104">104dp</dimen>
 
     <!--Spaces-->
     <dimen name="spacing_small_8">8dp</dimen>
