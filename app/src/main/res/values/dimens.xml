@@ -11,7 +11,7 @@
     <dimen name="size_medium_56">56dp</dimen>
     <dimen name="size_large_72">72dp</dimen>
     <dimen name="size_larger_80">80dp</dimen>
-    <dimen name="size_largerer_96">80dp</dimen>
+    <dimen name="size_largerer_96">96dp</dimen>
     <dimen name="size_largerest_104">104dp</dimen>
 
     <!--Spaces-->
@@ -24,7 +24,7 @@
     <dimen name="spacing_largen_64">64dp</dimen>
     <dimen name="spacing_larger_72">72dp</dimen>
     <dimen name="spacing_largerer_80">80dp</dimen>
-    <dimen name="spacing_largerest_88">80dp</dimen>
+    <dimen name="spacing_largerest_88">88dp</dimen>
 
     <!--Button sizes-->
     <dimen name="button_height_tall_48">48dp</dimen>
